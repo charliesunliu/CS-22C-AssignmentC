@@ -1,5 +1,5 @@
-# CS-22C-AssignmentC
-For homework
+/* CS-22C-AssignmentC
+For homework */
 #include "stdafx.h"
 #include <iostream>
 #include <string>
